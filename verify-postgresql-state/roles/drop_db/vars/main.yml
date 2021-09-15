@@ -1,0 +1,4 @@
+---
+# vars file for db-verify
+drop_db_name: 
+- miketest2
