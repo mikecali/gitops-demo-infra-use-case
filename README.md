@@ -6,9 +6,11 @@ This repo is an attempt to show how you can apply GitOps principles in your Lega
 
 To perform the demo using the artifacts and the instructions hin this repository, you need to have the following setup.
 1. Ansible Tower 3.8 or higher Setup
-2. 2xRHEL 8 servers that will be your targer nodes
-   1xRHEL 8 Application Server
-   1xRHEL 8 DB Server
+2. 2xRHEL 8 servers that will be your target nodes.
+   * 1xRHEL 8 Application Server
+   * 1xRHEL 8 DB Server
+
+Note to make sure that your RHEL servers are registered through Red Hat Satellite of CDN because the playbooks will need to download specific packages needed for the demo.
 
 # Sample Use-cases
 
