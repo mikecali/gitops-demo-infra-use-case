@@ -1,1 +1,1 @@
-##GitOps Infrastructure Demo using simple use cases
+## GitOps Infrastructure Demo using simple use cases
